@@ -1,6 +1,8 @@
 # ICML 2015 Papers
 
-### ICML released an utterly useless unlinked list of papers accepted for the 2015 conference. So I hacked up a scraper and got links to all the papers available on arxiv. This list includes ~60% of all papers accepted.
+### ICML released an utterly useless unlinked list of papers accepted for the 2015 conference. 
+### So I hacked up a scraper and got links to all the papers available on arxiv. 
+### This list includes ~60% of all papers accepted.
 
 #### Please do advise with any papers I may have missed due to title quirks, etc. I will likely update this to publicly available papers that are not on arxiv.
 
